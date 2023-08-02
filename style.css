@@ -1,0 +1,55 @@
+/* Feel free to change any of the styling below!*/
+
+.option-one-screen,
+.option-two-screen,
+.option-one-first-end,
+.option-one-second-end,
+.option-two-first-end,
+.option-two-second-end,
+.argentina-losing,
+.argentina-winning {
+  display: none;
+}
+
+body {
+    text-align: center;
+background-image: url("https://w0.peakpx.com/wallpaper/518/376/HD-wallpaper-argentina-flag-design-flat-football-material-minimal.jpg");
+}
+
+img {
+    width: 500px;
+  border-right: 10px solid black;
+border-bottom: 10px solid gold;
+  border-left:10px solid gold ;
+  border-top: 10px solid black;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
